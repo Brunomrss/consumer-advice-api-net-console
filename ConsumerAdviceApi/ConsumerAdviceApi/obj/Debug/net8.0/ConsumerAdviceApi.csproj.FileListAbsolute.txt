@@ -1,0 +1,14 @@
+c:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.exe
+C:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.deps.json
+C:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.runtimeconfig.json
+c:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.dll
+c:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.pdb
+c:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.AssemblyInfoInputs.cache
+c:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.AssemblyInfo.cs
+c:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.csproj.CoreCompileInputs.cache
+c:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.dll
+c:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\refint\ConsumerAdviceApi.dll
+c:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.pdb
+C:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.genruntimeconfig.cache
+C:\Users\32216147\Documents\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ref\ConsumerAdviceApi.dll
